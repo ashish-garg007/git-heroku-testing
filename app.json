@@ -1,0 +1,18 @@
+{
+  "name": "git-heroku-testing",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroic/nodejs"
+    }
+  ]
+}
