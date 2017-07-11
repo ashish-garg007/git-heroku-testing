@@ -12,7 +12,7 @@
   ],
   "buildpacks": [
     {
-      "url": "heroic/nodejs"
+      "url": "heroku/nodejs"
     }
   ]
 }
